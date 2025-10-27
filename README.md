@@ -144,5 +144,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > For questions, support, or feedback, please contact:
 >
-> -   Email: your-email@example.com
-> -   GitHub: [https://github.com/your-username/doclinker](https://github.com/your-username/doclinker)
+> -   Email: emon230208@gmail.com
+> -   GitHub: https://github.com/falconx-55/doclinker
